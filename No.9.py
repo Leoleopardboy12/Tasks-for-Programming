@@ -9,15 +9,9 @@ else:
 
 	
 55 is Odd
->>>  if (x % 7) ==0:
-	print(x, "is not a multiple of 4")
-else:
-	print("It is not")
-	
-SyntaxError: unexpected indent
->>> 
+ 
 >>> if (x % 7) ==0:
-	print(x, "is not a multiple of 4")
+	print(x, "is a multiple of 7")
 else:
 	print("It is not")
 
