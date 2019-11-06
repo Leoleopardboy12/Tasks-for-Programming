@@ -10,7 +10,7 @@ else:
 	
 56 is even.
 >>> if (x % 5) ==0:
-	print(x, "is not a multiple of 4")
+	print(x, "is a multiple of 5")
 else:
 	print("It is not")
 
